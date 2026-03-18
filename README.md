@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **Currently Exploring**: Android App Modding  
+- 🔭 **Currently Exploring**: Android App Reversing  
 - 🌱 **Learning**: Mobile Development, Security Tools, and Advanced Courses  
 - 👯 **Looking to Collaborate**: App Reversing & Windows Custom OS Projects  
 - 💬 **Ask Me About**: Android App Reversing, OS Customization  
